@@ -16,6 +16,9 @@
 <a href="https://stackoverflow.com/users/8521094/alif-hasnain">
   <img alignleft" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
 </a>
+<a href="https://medium.com/@alifhasnain">
+  <img alignleft" alt="Alif Hasnain's Medium" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/medium_logo.png" />
+</a>
 <br/><br/>
                                     
 **Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning something new everyday.**
