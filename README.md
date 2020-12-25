@@ -6,7 +6,7 @@
   <img align="left" alt="Alif Hasnain's LinkedIn" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/linkedin_logo.png" />
 </a>
 <a href="https://stackoverflow.com/users/8521094/alif-hasnain">
-  <img align="left" alt="Alif Hasnain's StackOverflow" width="22px" src="https://stackoverflow.com/users/8521094/alif-hasnain" />
+  <img align="left" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
 </a>
 
 **Languages and Tools:**  
