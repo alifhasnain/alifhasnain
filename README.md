@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://facebook.com/ahnsas">
-  <img align="left" alt="Alif Hasnain's Facebook" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/fb_logo.png" />
+  <img align="left" alt="Alif Hasnain's Facebook" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/fb_logo_2.png" />
 </a>
 <a href="https://www.linkedin.com/in/alif-hasnain-850002153/">
   <img align="left" alt="Alif Hasnain's LinkedIn" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/linkedin_logo.png" />
