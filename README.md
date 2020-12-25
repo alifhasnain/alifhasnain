@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey there!</h1>
 
 <a href="https://facebook.com/ahnsas">
   <img align="left" alt="Alif Hasnain's Facebook" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/fb_logo_2.png" />
@@ -7,10 +7,10 @@
   <img align="left" alt="Alif Hasnain's LinkedIn" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/linkedin_logo.png" />
 </a>
 <a href="https://stackoverflow.com/users/8521094/alif-hasnain">
-  <img align="left" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
+  <img alignleft" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
 </a>
-<br/>
-
+<br/><br/>
+                                    
 **Hi! I am Alif Hasnain an Android application developer from Bangladesh.**
 
 
