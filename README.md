@@ -11,7 +11,7 @@
 
 <br/>
 
-Hi! I am Alif Hasnain an Android application developer from Bangladesh.
+**Hi! I am Alif Hasnain an Android application developer from Bangladesh.**
 
 **Languages and Tools:**  
 
