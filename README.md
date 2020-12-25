@@ -17,7 +17,7 @@
   <img alignleft" alt="Alif Hasnain's Medium" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/medium_logo.png" />
 </a>
 <a href="https://stackoverflow.com/users/8521094/alif-hasnain">
-  <img alignleft" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
+  <img alignleft" alt="Alif Hasnain's StackOverflow" width="25px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/stackoverflow_1.png" />
 </a>
 <br/><br/>
                                     
