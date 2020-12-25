@@ -1,8 +1,9 @@
-[![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain)](https://github.com/alifhasnain)
-[![Years Badge](https://badges.pufler.dev/years/alifhasnain)](https://github.com/alifhasnain)
-[![Repos Badge](https://badges.pufler.dev/repos/alifhasnain)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
+[![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)](https://github.com/alifhasnain)
+[![Years Badge](https://badges.pufler.dev/years/alifhasnain?style=flat-square)](https://github.com/alifhasnain)
+[![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain?style=flat-square)](https://badges.pufler.dev)
 
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
