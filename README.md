@@ -25,6 +25,8 @@
 **Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning something new everyday.**
 
 
+![Facebook URL](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%2Ffacebook.com%2Fahssas)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/android_logo.svg"></code>
