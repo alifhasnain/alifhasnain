@@ -1,3 +1,6 @@
+[![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/alifhasnain)](https://badges.pufler.dev)
+
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://facebook.com/ahnsas">
