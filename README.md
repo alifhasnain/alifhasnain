@@ -11,7 +11,7 @@
 </a>
 <br/><br/>
                                     
-**Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning new things.**
+**Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning something new everyday.**
 
 
 **Languages and Tools:**  
