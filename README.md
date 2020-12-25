@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey there!</h1>
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://facebook.com/ahnsas">
   <img align="left" alt="Alif Hasnain's Facebook" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/fb_logo_2.png" />
