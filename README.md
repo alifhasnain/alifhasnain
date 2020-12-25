@@ -9,6 +9,10 @@
   <img align="left" alt="Alif Hasnain's StackOverflow" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
 </a>
 
+<br/>
+
+Hi! I am Alif Hasnain an Android application developer from Bangladesh.
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/android_logo.svg"></code>
