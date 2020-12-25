@@ -8,28 +8,14 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://facebook.com/ahnsas">
-  <img align="left" alt="Alif Hasnain's Facebook" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/fb_logo_2.png" />
-</a>
-<a href="https://www.linkedin.com/in/alif-hasnain-850002153/">
-  <img align="left" alt="Alif Hasnain's LinkedIn" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/linkedin_logo.png" />
-</a>
-<a href="https://medium.com/@alifhasnain">
-  <img alignleft" alt="Alif Hasnain's Medium" width="22px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/medium_logo.png" />
-</a>
-<a href="https://stackoverflow.com/users/8521094/alif-hasnain">
-  <img alignleft" alt="Alif Hasnain's StackOverflow" width="25px" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/so_logo.png" />
-</a>
-<br/><br/>
-                                    
-**Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning something new everyday.**
-
 <p>
 	<a href="https://www.facebook.com/ahnsas/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/alif-hasnain-850002153/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 	<a href="https://medium.com/@alifhasnain" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/8521094/alif-hasnain" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
-  <p/>
+	<a href="https://stackoverflow.com/users/8521094/alif-hasnain" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
+<p/>
+                                    
+**Hi! I am Alif Hasnain an Android application developer from Dhaka, Bangladesh <img src="https://www.flaticon.com/svg/static/icons/svg/202/202975.svg" width="15"/>. I am always passionate about learning something new everyday.**
   
 **Languages and Tools:**  
 
