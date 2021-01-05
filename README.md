@@ -36,12 +36,12 @@
 
 ### My Works
 
-#### Class Manager (Kotlin)
+#### **Class Manager (Kotlin)**
 
 <p float="left">
-  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image1.png" width="170" />
-  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image2.png" width="170" />
-  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image3.png" width="170" />
-  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image4.png" width="170" />
-  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image5.png" width="170" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image1.png" width="150" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image2.png" width="150" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image3.png" width="150" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image4.png" width="150" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image5.png" width="150" />
 </p>
