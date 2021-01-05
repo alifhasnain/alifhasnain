@@ -4,8 +4,8 @@
 ![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)
 ![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain?style=flat-square)
+[![Alif Hasnain's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8521094)](https://stackoverflow.com/users/8521094/alif-hasnain)
 
-[![Alif Hasnain's StackOverflow](https://github-readme-stackoverflow.vercel.app/?layout=compact&userID=8521094/)](https://stackoverflow.com/users/8521094/alif-hasnain)
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
