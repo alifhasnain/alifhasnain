@@ -31,4 +31,4 @@
 
 ### My Blog posts
 
-- [Lambda Expressions In Kotlin](https://medium.com/@alifhasnain/lambda-expressions-in-kotlin-69bc8fbb6e6a)
+- **[Lambda Expressions In Kotlin](https://medium.com/@alifhasnain/lambda-expressions-in-kotlin-69bc8fbb6e6a)**
