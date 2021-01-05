@@ -38,6 +38,10 @@
 
 #### Class Manager (Kotlin)
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image1.png)  |  ![](https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image2.png)
+<p float="left">
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image1.png" width="100" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image2.png" width="100" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image3.png" width="100" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image4.png" width="100" />
+  <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image5.png" width="100" />
+</p>
