@@ -36,6 +36,7 @@
 
 ### My Works
 
+
 #### **Class Manager (Kotlin)**
 
 <p float="left">
@@ -46,6 +47,13 @@
   <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image5.png" width="150" />
 </p>
 
-<img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/Lost%20%26%20Found.png" height="400" />
+
+#### **Edu Care (Kotlin)**
+
 <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/edu_care.png" height="400" />
+
+
+#### **Lost & Found (Java)**
+
+<img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/Lost%20%26%20Found.png" height="400" />
 
