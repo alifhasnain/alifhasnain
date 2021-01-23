@@ -41,9 +41,9 @@
 
 This application is mainly developed for DIU to view students' and teachers' routines and room booking. Besides its main purpose, there are a lot of features available for both students and teachers.
 
-- <b>Tech Stack (Kotlin): </b> Hilt, Coroutine, Retrofit, Room, ViewModel, LiveData, Navigation Component, Paging3, Work Manager, ViewPager 2, Moshi, FCM
+- <b>Tech Stack (Kotlin): </b> Hilt, Coroutine, Retrofit, Room, ViewModel, LiveData, Navigation Component, Paging3, Work Manager, ViewPager 2, Moshi, FCM etc.
 
-- <b>Tech Stack (Java)(Old Version): </b> ViewModel, LiveData, Work Manager, Firebase Auth, Firestore, Firebase Function, FCM
+- <b>Tech Stack (Java)(Old Version): </b> ViewModel, LiveData, Work Manager, Firebase Auth, Firestore, Firebase Function, FCM etc.
 
 <p float="left">
   <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/cm_image1.png" width="150" />
@@ -56,10 +56,18 @@ This application is mainly developed for DIU to view students' and teachers' rou
 
 ### **Edu Care (Kotlin)**
 
+This application was developed to work as a platfom for students where they will be able to attend MCQ quiz, view lecture sheets and videos etc.
+
+<b>Tech Stack: </b> ViewModel, LiveData, Coroutine, Work Manager, Firebase Auth (OTP), Firestore, Firebase Function, Katex etc.
+
 <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/edu_care.png" height="400" />
 
 
 ### **Lost & Found (Java)**
+
+It is an old project. It was a semester project in my university. This application offers to do post about if something is lost or if someone found something.
+
+<b>Tech Stack: </b> MVC Pattern, Firebase Auth, Firestore.
 
 <img src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/screenshots/Lost%20%26%20Found.png" height="400" />
 
