@@ -39,7 +39,7 @@
 
 ### [**Class Manager**](https://play.google.com/store/apps/details?id=bd.edu.daffodilvarsity.classmanager&hl=en&gl=US)
 
-This application is mainly developed for DIU to view students' and teachers' routines and room booking. Besides its main purpose, there are a lot of features available for both students and teachers.
+This application is mainly developed for DIU to view students' and teachers' routines and room booking. Besides its main purpose, there are a lot of features available for both students and teachers. [**Play Store Link**](https://play.google.com/store/apps/details?id=bd.edu.daffodilvarsity.classmanager&hl=en&gl=US)
 
 - <b>Tech Stack (Kotlin): </b> Hilt, Coroutine, Retrofit, Room, ViewModel, LiveData, Navigation Component, Paging3, Work Manager, ViewPager 2, Moshi, FCM etc.
 
