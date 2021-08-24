@@ -3,7 +3,7 @@
 ![Years Badge](https://badges.pufler.dev/years/alifhasnain?style=flat-square)
 ![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)
 ![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhnasnain)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain)
 [![Alif Hasnain's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8521094)](https://stackoverflow.com/users/8521094/alif-hasnain)
 
 
