@@ -1,7 +1,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://gitHub.com/alifhasnain/StrapDown.js/stargazers/)
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://gitHub.com/alifhasnain/StrapDown.js/watchers/)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/alifhasnain?tab=followers)
 [![Alif Hasnain's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8521094)](https://stackoverflow.com/users/8521094/alif-hasnain)
 
 
