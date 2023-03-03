@@ -1,4 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://gitHub.com/alifhasnain/StrapDown.js/stargazers/)
 ![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
 ![Years Badge](https://badges.pufler.dev/years/alifhasnain?style=flat-square)
 ![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)
